@@ -1,0 +1,13 @@
+Farm2Table Aplication
+For Farmers:
+Farmers will start by registering themselves on the Farm2Table platform. They will provide their personal and farm details, including their name, email, password, and location. Once registered, farmers will have access to a dedicated farmer dashboard.
+In the farmer dashboard, they will be able to manage their farm's profile, including updating their information and adding captivating images that showcase their farm and produce. Farmers will also have the ability to list their products on the platform. They will provide details such as the product name, description, category, and set competitive prices for their offerings.
+Whenever a customer places an order for their products, farmers will receive notifications in their dashboard. They will be able to view and manage the order details, including updating the order status as it progresses from pending to shipped to delivered.
+The platform will facilitate direct communication between farmers and customers. Farmers will have the capability to respond to inquiries, address concerns, and provide updates on product availability or any special offerings they might have.
+For Customers:
+Customers will begin by registering on the Farm2Table app, providing their personal details such as name, email, and password. Upon successful registration, they will gain access to the platform's extensive catalog of locally sourced, farm-fresh produce.
+Customers will be able to browse through the product listings, which will be conveniently categorized for easy navigation. They can filter products based on their preferences, such as product category, location, or any other relevant criteria.
+When customers find products they wish to purchase, they can add them to their virtual cart and proceed to checkout. The app will provide secure payment options, allowing customers to complete their transactions seamlessly.
+After placing an order, customers will receive real-time updates on the status of their order, from when it is processed to when it is shipped and ultimately delivered. They will also have the ability to communicate directly with the farmer who is fulfilling their order, fostering a sense of connection and transparency.
+Customers can leave reviews and ratings for the products they have purchased, helping other customers make informed decisions and providing valuable feedback to the farmers.
+Overall, the Farm2Table app will revolutionize the way customers access locally sourced, farm-fresh produce. They will enjoy a seamless and transparent experience, connecting them directly with the farmers who cultivate the products they consume, promoting a sustainable and community-driven food ecosystem.
